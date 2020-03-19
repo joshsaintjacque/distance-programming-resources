@@ -3,6 +3,11 @@ A repository of online and mail order programming education and training resourc
 
 ## Books
 
+### Team Culture
+
+- [Remote](https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501) by Jason Fried and David Heinemeier Hansson
+- [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745) by Jason Fried and David Heinemeier Hansson
+
 ### General Best Practices
 
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert Martin
