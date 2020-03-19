@@ -6,6 +6,7 @@ A repository of online and mail order programming education and training resourc
 ### General Best Practices
 
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert Martin
+- [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/) by Martin Fowler _(examples in JS but language agnostic)_
 
 ## Online Training
 
