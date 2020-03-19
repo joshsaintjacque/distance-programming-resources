@@ -12,6 +12,16 @@ A repository of online and mail order programming education and training resourc
 ### General
 
 - [Egghead.io](https://egghead.io/)
+- [Pluralsight](https://www.pluralsight.com/)
+- [Frontend Masters](https://frontendmasters.com/)
+
+### React
+
+- [Wes Bos' Advanced React](https://advancedreact.com/)
+
+### JavaScript
+
+- [Kent C. Dodds' Testing JavaScript](https://testingjavascript.com/)
 
 ### Ruby
 
