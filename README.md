@@ -1,5 +1,5 @@
-# Online and Mail Order Programming Resources
-A repository of programming distance education and training resources.
+# Distance Programming Resources
+A repository of online and mail order programming education and training resources.
 
 ## Books
 
