@@ -1,2 +1,18 @@
-# programming-education-and-training
-A repository of programming education and training resources.
+# Online and Mail Order Programming Resources
+A repository of programming distance education and training resources.
+
+## Books
+
+### General Best Practices
+
+- [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert Martin
+
+## Online Training
+
+### General
+
+- [Egghead.io](https://egghead.io/)
+
+### Ruby
+
+- [Ruby Tapas](https://www.rubytapas.com/)
