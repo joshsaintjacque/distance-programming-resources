@@ -7,6 +7,7 @@ A repository of online and mail order programming education and training resourc
 
 - [Remote](https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501) by Jason Fried and David Heinemeier Hansson
 - [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745) by Jason Fried and David Heinemeier Hansson
+- [It Doesn't Have To Be Crazy At Work](https://www.amazon.com/Doesnt-Have-Be-Crazy-Work/dp/0062874780) by David Heinemeier Hansson
 
 ### General Best Practices
 
