@@ -18,6 +18,10 @@ A repository of online and mail order programming education and training resourc
 
 - [Programming TypeScript](https://www.amazon.com/Programming-TypeScript-Making-JavaScript-Applications/dp/1492037656/ref=pd_sbs_14_t_0/)
 
+### React
+
+- [React Design Patterns and Best Practices](https://www.sitepoint.com/premium/books/react-design-patterns-and-best-practices-second-edition) by Carlos Santana Roldán
+
 ## Online Training
 
 ### General
